@@ -2689,7 +2689,7 @@
 
 		.spotlight.alt {
 			background: #1e1f23;
-			color: rgba(255, 255, 255, 0.25);
+			color: rgba(255, 255, 255, 0.678);
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -2921,7 +2921,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../images/빵빵이의\ 매력.jpg);
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -2963,7 +2963,7 @@
 			#header > .logo a {
 				font-size: 4rem;
 				font-weight: 700;
-				color: #FFF;
+				color: #2a0077;
 				text-decoration: none;
 				line-height: 1rem;
 			}
@@ -2972,7 +2972,7 @@
 				font-weight: 300;
 				font-size: 1rem;
 				display: block;
-				color: rgba(255, 255, 255, 0.65);
+				color: rgba(0, 0, 0, 0.65);
 			}
 
 	@media screen and (max-width: 1280px) {
